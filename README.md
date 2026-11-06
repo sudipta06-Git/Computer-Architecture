@@ -1,4 +1,5 @@
 # Computer Architecture: 
+![image alt](https://github.com/sudipta06-Git/Java-Threads/blob/a632e73bc63fb0eadaf54b7a26cae4733d0dab9e/diagram-2.png)
 
 
 ## Course modules
