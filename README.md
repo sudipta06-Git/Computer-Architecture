@@ -5,7 +5,7 @@ A complete, open video-course project: **60 lessons across 8 modules**, taking a
 This repository holds everything needed to *produce* the series: scripts, storyboards, quizzes, revision material, asset folders, render tooling and publishing checklists. Rendered videos are **not** stored in Git (see [Video files](#video-files)).
 
 ## Course modules
-| # | Module | Lessons |
+| # | Module |
 |---|--------|---------|
 | 1 | [Fundamentals](modules/module-01-fundamentals/) | 
 | 2 | [Number Systems and Digital Logic](modules/module-02-number-systems-and-digital-logic/) | 
