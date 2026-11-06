@@ -7,14 +7,14 @@ This repository holds everything needed to *produce* the series: scripts, storyb
 ## Course modules
 | # | Module | Lessons |
 |---|--------|---------|
-| 1 | [Fundamentals](modules/module-01-fundamentals/) | 6 |
-| 2 | [Number Systems and Digital Logic](modules/module-02-number-systems-and-digital-logic/) | 8 |
-| 3 | [Central Processing Unit](modules/module-03-central-processing-unit/) | 8 |
-| 4 | [Memory Organization](modules/module-04-memory-organization/) | 8 |
-| 5 | [Computer Bus and Input/Output](modules/module-05-computer-bus-and-input-output/) | 6 |
-| 6 | [Processor Design](modules/module-06-processor-design/) | 8 |
-| 7 | [Advanced Computer Architecture](modules/module-07-advanced-computer-architecture/) | 8 |
-| 8 | [Practical and Professional Applications](modules/module-08-practical-and-professional-applications/) | 8 |
+| 1 | [Fundamentals](modules/module-01-fundamentals/) | 
+| 2 | [Number Systems and Digital Logic](modules/module-02-number-systems-and-digital-logic/) | 
+| 3 | [Central Processing Unit](modules/module-03-central-processing-unit/) | 
+| 4 | [Memory Organization](modules/module-04-memory-organization/) | 
+| 5 | [Computer Bus and Input/Output](modules/module-05-computer-bus-and-input-output/) | 
+| 6 | [Processor Design](modules/module-06-processor-design/) | 
+| 7 | [Advanced Computer Architecture](modules/module-07-advanced-computer-architecture/) | 
+| 8 | [Practical and Professional Applications](modules/module-08-practical-and-professional-applications/) | 
 
 Also: [Final project brief](project/final-project.md) · [Full outline](docs/COURSE_OUTLINE.md)
 
