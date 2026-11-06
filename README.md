@@ -1,8 +1,9 @@
 # Computer Architecture: 
+
 ![image alt](https://github.com/sudipta06-Git/Computer-Architecture/blob/main/diagram-2.png)
+Diagram view: if you consider as a course type
 
-
-## Course modules
+## Modules
 | 1 | [Fundamentals](modules/module-01-fundamentals/) | 
 | 2 | [Number Systems and Digital Logic](modules/module-02-number-systems-and-digital-logic/) | 
 | 3 | [Central Processing Unit](modules/module-03-central-processing-unit/) | 
